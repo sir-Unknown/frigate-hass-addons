@@ -3,7 +3,7 @@ version: 1.6-fork1
 panel_icon: "mdi:cctv"
 panel_title: Frigate
 slug: frigate-proxy
-description: Proxy addon for Frigate
+description: Fork of Proxy addon for Frigate
 url: "https://github.com/blakeblackshear/frigate"
 startup: application
 boot: auto
